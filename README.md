@@ -1,7 +1,4 @@
-# CODSOFT Task 1: Number Guess Game 
-Java Internship Tasks – July 2025 (CodSoft)
-
-Number Guess Game — Java Console Application
+# Number Guess Game - Java Console Application
 
 This repository contains a simple and interactive number-guessing game developed in Java as part of the CodSoft Internship Program. The game runs on the console and engages users in predicting a randomly generated number within a defined range.
 
