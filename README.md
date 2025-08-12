@@ -1,4 +1,4 @@
-# Number Guess Game - Java Console Application
+# 🎮Number Guess Game - Java Console Application
 
 This repository contains a simple and interactive number-guessing game developed in Java as part of the CodSoft Internship Program. The game runs on the console and engages users in predicting a randomly generated number within a defined range.
 
@@ -19,3 +19,5 @@ This repository contains a simple and interactive number-guessing game developed
 💻 Technologies Used
 
 • Java Language
+
+🌐 LinkedIn Post: https://www.linkedin.com/posts/kritisethi2006_javaprogramming-codsoft-codsoftinternship-activity-7347661508878733312-OL9Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWXPdABtxDAIjSA_8TFbf7ZOn_H4U7xeJk
