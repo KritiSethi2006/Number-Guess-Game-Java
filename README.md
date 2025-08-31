@@ -20,4 +20,4 @@ This repository contains a simple and interactive number-guessing game developed
 
 • Java Language
 
-**🌐 LinkedIn Post:** https://www.linkedin.com/posts/kritisethi2006_javaprogramming-codsoft-codsoftinternship-activity-7347661508878733312-OL9Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWXPdABtxDAIjSA_8TFbf7ZOn_H4U7xeJk
+**🌐 LinkedIn Post:** https://www.linkedin.com/posts/kritisethi2006_javaprojects-numberguessinggame-consoleapp-activity-7367926079975522304-R0JO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWXPdABtxDAIjSA_8TFbf7ZOn_H4U7xeJk
